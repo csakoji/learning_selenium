@@ -1,0 +1,72 @@
+01/06/2021 09:54:21 PM: INFO: ************************Test_001_Login************************
+01/06/2021 09:54:21 PM: INFO: **********************test_homepageTitle**********************
+01/06/2021 09:54:21 PM: INFO: ************************Test_001_Login************************
+01/06/2021 09:54:21 PM: INFO: **************************test_login**************************
+01/06/2021 09:54:37 PM: INFO: *********************Testcase passed*********************
+01/06/2021 09:59:20 PM: INFO: ************************Test_001_Login************************
+01/06/2021 09:59:20 PM: INFO: **********************test_homepageTitle**********************
+01/06/2021 09:59:21 PM: INFO: ************************Test_001_Login************************
+01/06/2021 09:59:21 PM: INFO: **************************test_login**************************
+01/06/2021 09:59:36 PM: INFO: *********************Testcase passed*********************
+01/06/2021 10:00:29 PM: INFO: *********************Testcase passed*********************
+01/07/2021 07:12:35 PM: INFO: ************************Test_001_Login************************
+01/07/2021 07:12:35 PM: INFO: **********************test_homepageTitle**********************
+01/07/2021 07:12:41 PM: INFO: *********************Testcase passed*********************
+01/07/2021 07:12:47 PM: INFO: ************************Test_001_Login************************
+01/07/2021 07:12:47 PM: INFO: **************************test_login**************************
+01/07/2021 07:12:59 PM: INFO: *********************Testcase passed*********************
+01/07/2021 09:51:48 PM: INFO: ************************Test_002_Login************************
+01/07/2021 09:51:48 PM: INFO: **************************test_login**************************
+01/07/2021 09:52:00 PM: INFO: Testcase passed
+01/07/2021 09:54:13 PM: INFO: ************************Test_002_Login************************
+01/07/2021 09:54:13 PM: INFO: **************************test_login**************************
+01/07/2021 09:55:35 PM: INFO: ************************Test_002_Login************************
+01/07/2021 09:55:35 PM: INFO: **************************test_login**************************
+01/07/2021 09:56:23 PM: INFO: Testcase passed
+01/08/2021 08:30:09 AM: INFO: ************************Test_002_Login************************
+01/08/2021 08:30:09 AM: INFO: **************************test_login**************************
+01/08/2021 08:30:29 AM: INFO: Testcase passed
+01/08/2021 08:30:32 AM: INFO: Testcase passed
+01/08/2021 08:30:33 AM: INFO: Testcase passed
+01/08/2021 08:30:34 AM: INFO: Testcase passed
+01/08/2021 08:30:34 AM: INFO: All testcases passed
+01/08/2021 08:32:10 AM: INFO: ************************Test_002_Login************************
+01/08/2021 08:32:10 AM: INFO: **************************test_login**************************
+01/08/2021 08:32:49 AM: INFO: Testcase passed
+01/08/2021 08:34:30 AM: INFO: ************************Test_002_Login************************
+01/08/2021 08:34:30 AM: INFO: **************************test_login**************************
+01/08/2021 08:34:47 AM: INFO: Testcase passed
+01/08/2021 08:34:51 AM: INFO: Testcase passed
+01/08/2021 08:34:51 AM: INFO: Testcase passed
+01/08/2021 08:34:52 AM: INFO: Testcase passed
+01/08/2021 08:36:20 AM: INFO: ************************Test_002_Login************************
+01/08/2021 08:36:20 AM: INFO: **************************test_login**************************
+01/08/2021 08:36:32 AM: INFO: Testcase passed
+01/08/2021 08:36:35 AM: ERROR: Testcase failed
+01/08/2021 08:36:35 AM: INFO: Testcase passed
+01/08/2021 08:36:36 AM: INFO: Testcase passed
+01/08/2021 08:36:45 AM: ERROR: One or all testcases failed
+01/12/2021 08:59:17 PM: INFO: Add customer testcases starts
+01/12/2021 08:59:17 PM: INFO: Login to website
+01/12/2021 08:59:29 PM: INFO: Login to webpage successful
+01/12/2021 08:59:29 PM: INFO: Click on customers menu and submenu and add customer
+01/12/2021 08:59:34 PM: INFO: Providing new customer information
+01/12/2021 09:02:05 PM: INFO: Add customer testcases starts
+01/12/2021 09:02:05 PM: INFO: Login to website
+01/12/2021 09:02:20 PM: INFO: Login to webpage successful
+01/12/2021 09:02:20 PM: INFO: Click on customers menu and submenu and add customer
+01/12/2021 09:02:26 PM: INFO: Providing new customer information
+01/12/2021 09:08:50 PM: INFO: Add customer testcases starts
+01/12/2021 09:08:50 PM: INFO: Login to website
+01/12/2021 09:08:53 PM: INFO: Login to webpage successful
+01/12/2021 09:08:53 PM: INFO: Click on customers menu and submenu and add customer
+01/12/2021 09:09:09 PM: INFO: Providing new customer information
+01/12/2021 09:09:47 PM: INFO: Checking if customer added successfully
+01/12/2021 09:09:49 PM: INFO: Closing browser window
+01/12/2021 09:13:38 PM: INFO: Add customer testcases starts
+01/12/2021 09:13:38 PM: INFO: Login to website
+01/12/2021 09:13:50 PM: INFO: Login to webpage successful
+01/12/2021 09:13:50 PM: INFO: Click on customers menu and submenu and add customer
+01/12/2021 09:13:56 PM: INFO: Providing new customer information
+01/12/2021 09:14:01 PM: INFO: Checking if customer added successfully
+01/12/2021 09:14:02 PM: INFO: Closing browser window
