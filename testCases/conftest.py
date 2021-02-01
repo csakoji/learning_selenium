@@ -20,8 +20,8 @@ def browser(request):
     return request.config.getoption('--browser')
 
 
-def pytest_configure(config):
-    config._metadata['Project Name'] = 'nop commerce'
+# def pytest_configure(config):
+#     config._metadata['Project Name'] = 'nop commerce'
 
 
 @pytest.mark.optionalhook
